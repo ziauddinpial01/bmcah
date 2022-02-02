@@ -1,0 +1,319 @@
+[
+    {
+        "id":1,
+        "dept": "Anatomy",
+        "teacher_list":[
+            {
+                "name":"Dr. Nadia Nawshin",
+                "degi":"Associate Professor & Head",
+                "img":"assets/images/anatomy-1.jpg"
+
+            },
+            {
+                "name":"Dr Najnin Akhter",
+                "degi":"Assistant Professor",
+                "img":"assets/images/anatomy-2.jpg"
+            },
+            {
+                "name":"Dr. Partha Sarathi Singha",
+                "degi":"Assistant Professor",
+                "img":"assets/images/anatomy-3.jpg"
+            },
+            {
+                "name":"Dr. Taslima Suravi",
+                "degi":"Lecturer",
+                "img":"assets/images/anatomy-4.jpg"
+            },
+            {
+                "name":"Dr. Ajmal Khan Pathan",
+                "degi":"Lecturer",
+                "img":"assets/images/anatomy-5.jpg"
+            },
+            {
+                "name":"Dr. Nura Alam",
+                "degi":"Lecturer",
+                "img":"assets/images/anatomy-6.jpg"
+            },
+            {
+                "name":"Dr. Marzia Sultana",
+                "degi":"Lecturer",
+                "img":"assets/images/anatomy-7.jpg"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "dept": "Biochemistry",
+        "teacher_list":[
+            {
+                "name":"Dr. Abdus Samad",
+                "degi":"Professor & Head",
+                "img":"assets/images/bio-1.jpg"
+
+            },
+            {
+                "name":"Dr Jakia Haque",
+                "degi":"Assistant Professor",
+                "img":"assets/images/bio-2.jpg"
+            },
+            {
+                "name":"Dr. Shahana Jasmin",
+                "degi":"Assistant Professor",
+                "img":"assets/images/bio-3.jpg"
+            },
+            {
+                "name":"Dr. Md. Fakhrul Hasan Rubel",
+                "degi":"Lecturer",
+                "img":"assets/images/bio-4.jpg"
+            },
+            {
+                "name":"Dr. Md. Abdullah Al Muktadir",
+                "degi":"Lecturer",
+                "img":"assets/images/bio-5.jpg"
+            },
+            {
+                "name":"Dr. Jannatul Ferdous Shefa",
+                "degi":"Lecturer",
+                "img":"assets/images/bio-6.jpg"
+            }
+           
+        ]
+    },
+    {
+        "id":3,
+        "dept": "Community Medicine",
+        "teacher_list":[
+            {
+                "name":"Prof. Brig Gen (Rtd) Md Shafiqul Islam",
+                "degi":"Professor & Head",
+                "img":"assets/images/community-1.jpg"
+
+            },
+            {
+                "name":"Dr Md. Aminur Rahman",
+                "degi":" Professor",
+                "img":"assets/images/community-2.jpg"
+            },
+            {
+                "name":"Dr. Shamsunnahar Zinia",
+                "degi":"Associate Professor",
+                "img":"assets/images/community-3.jpg"
+            },
+            {
+                "name":"Dr. Md. Abu Sayed",
+                "degi":"Associate Professor",
+                "img":"assets/images/community-4.jpg"
+            },
+            {
+                "name":"Dr. Md. Shyful Islam",
+                "degi":"Lecturer",
+                "img":"assets/images/community-5.jpg"
+            },
+            {
+                "name":"Dr. Iqbal Hossain Mojumder",
+                "degi":"Lecturer",
+                "img":"assets/images/community-6.jpg"
+            },
+            {
+                "name":"Dr. S M Arifur Reza",
+                "degi":"Lecturer",
+                "img":"assets/images/community-7.jpg"
+            }
+           
+        ]
+    },
+    {
+        "id":4,
+        "dept": "Forensic Medicine",
+        "teacher_list":[
+            {
+                "name":"Dr. Mohammad Emran Hossain",
+                "degi":"Professor & Head",
+                "img":"assets/images/forensic-1.jpg"
+
+            },
+            {
+                "name":"Dr Sarwar Alam",
+                "degi":"Assistant Professor",
+                "img":"assets/images/forensic-2.jpeg"
+            },
+            {
+                "name":"Dr. Sharmin Alam Leena",
+                "degi":"Lecturer",
+                "img":"assets/images/forensic-3.jpg"
+            },
+            {
+                "name":"Dr. Rafia Khatun Rifa",
+                "degi":"Lecturer",
+                "img":"assets/images/forensic-4.jpeg"
+            }
+           
+        ]
+    },
+    {
+        "id":5,
+        "dept": "Gynocology & Obstetrics",
+        "teacher_list":[
+            {
+                "name":"Dr. Kazi Shahnaz Begum",
+                "degi":"Professor & Head",
+                "img":"assets/images/gynecology.jpg"
+
+            }
+        ]
+    },
+    {
+        "id":6,
+        "dept": "Medicine & Allied",
+        "teacher_list":[
+            {
+                "name":"Dr. Md Abu Bakar Siddiq",
+                "degi":"Associate Professor",
+                "img":"assets/images/medicine.jpg"
+
+            }
+        ]
+    },
+    {
+        "id":7,
+        "dept": "Microbiology",
+        "teacher_list":[
+            {
+                "name":"Dr. Md. Zakiur Rahman",
+                "degi":"Professor & Head",
+                "img":"assets/images/microbiology-1.jpg"
+
+            },
+            {
+                "name":"Dr Md Arifur Rahman",
+                "degi":"Associate Professor",
+                "img":"assets/images/microbiology-2.jpg"
+            },
+            {
+                "name":"Dr. Md. Mehedi Al Masum",
+                "degi":"Lecturer",
+                "img":"assets/images/microbiology-3.jpg"
+            },
+            {
+                "name":"Dr. Shangida Akter Shishir",
+                "degi":"Lecturer",
+                "img":"assets/images/microbiology-4.jpg"
+            },
+            {
+                "name":"Dr. Sabrina Zakaria",
+                "degi":"Lecturer",
+                "img":"assets/images/microbiology-5.jpg"
+            }
+           
+        ]
+    },
+    {
+        "id":8,
+        "dept": "Pathology",
+        "teacher_list":[
+            {
+                "name":"Dr. Abu Anis Khan",
+                "degi":"Associate Professor",
+                "img":"assets/images/pathology-1.jpeg"
+            },
+            {
+                "name":"Dr Kajol Akter",
+                "degi":"Associate Professor",
+                "img":"assets/images/pathology-2.jpeg"
+            },
+            {
+                "name":"Dr. Marjina Sultana Banna",
+                "degi":"Lecturer",
+                "img":"assets/images/pathology-3.jpeg"
+            },
+            {
+                "name":"Dr. Tania Akhter",
+                "degi":"Lecturer",
+                "img":"assets/images/pathology-4.jpeg"
+            },
+            {
+                "name":"Dr. Ashraful Alam",
+                "degi":"Lecturer",
+                "img":"assets/images/pathology-5.jpeg"
+            }
+           
+        ]
+    },
+    {
+        "id":9,
+        "dept": "Pharmacology & Therapeutics",
+        "teacher_list":[
+            {
+                "name":"Dr. Afroza Momen",
+                "degi":" Associate Professor & Head",
+                "img":"assets/images/pharmacology-1.jpg"
+            },
+            {
+                "name":"Dr Asma Akter Abbasy",
+                "degi":"Associate Professor",
+                "img":"assets/images/pharmacology-2.jpg"
+            },
+            {
+                "name":"Dr. Saniad Ahmed Sakin",
+                "degi":"Associate Professor",
+                "img":"assets/images/pharmacology-3.jpeg"
+            },
+            {
+                "name":"Dr. Bijoy Pal",
+                "degi":"Lecturer",
+                "img":"assets/images/pharmacology-4.jpeg"
+            },
+            {
+                "name":"Dr. Piash Hossain Khan Sujon",
+                "degi":"Lecturer",
+                "img":"assets/images/pharmacology-5.jpeg"
+            }
+           
+        ]
+    },
+    {
+        "id":10,
+        "dept": "Physiology",
+        "teacher_list":[
+            {
+                "name":"Dr. Md Khairul Alam",
+                "degi":" Professor",
+                "img":"assets/images/physiology-1.jpg"
+            },
+            {
+                "name":"Dr Hossneara",
+                "degi":"Associate Professor & Head",
+                "img":"assets/images/physiology-2.jpg"
+            },
+            {
+                "name":"Dr. Zinnurain Laboni",
+                "degi":"Lecturer",
+                "img":"assets/images/physiology-3.jpg"
+            },
+            {
+                "name":"Dr. Md Shmsul Alam Bhuiyan",
+                "degi":"Lecturer",
+                "img":"assets/images/physiology-4.jpeg"
+            },
+            {
+                "name":"Dr. PMin Khanam",
+                "degi":"Lecturer",
+                "img":"assets/images/physiology-5.jpeg"
+            }
+           
+        ]
+    },
+    {
+        "id":11,
+        "dept": "Surgery & Allied",
+        "teacher_list":[
+            {
+                "name":"Dr. Jahangir Hossain Bhuiyan",
+                "degi":" Professor & Head",
+                "img":"assets/images/surgery.jpg"
+
+            }
+        ]
+    }
+   
+]

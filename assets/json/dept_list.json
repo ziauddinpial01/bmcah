@@ -1,0 +1,157 @@
+[
+    {
+        "id":1,
+        "name": "Anatomy",
+        "dep_details":
+        [
+            {
+                "title": "ANATOMY DEPARTMENT",
+                "details1": "Anatomy (Greek anatomē, 'dissection') is the branch of biology concerned with the study of the structure of organisms and their parts.[1] Anatomy is a branch of natural science which deals with the structural organization of living things. It is an old science, having its beginnings in prehistoric times.[2] Anatomy is inherently tied to developmental biology, embryology, comparative anatomy, evolutionary biology, and phylogeny,[3] as these are the processes by which anatomy is generated over immediate (embryology) and long (evolution) timescales. Anatomy and physiology, which study (respectively) the structure and function of organisms and their parts, make a natural pair of related disciplines, and they are often studied together. Human anatomy is one of the essential basic sciences that are applied in medicine.",
+                "details2": "The discipline of anatomy is divided into macroscopic and microscopic anatomy. Macroscopic anatomy, or gross anatomy, is the examination of an animal's body parts using unaided eyesight. Gross anatomy also includes the branch of superficial anatomy. Microscopic anatomy involves the use of optical instruments in the study of the tissues of various structures, known as histology, and also in the study of cells.",
+                "details3": "The history of anatomy is characterized by a progressive understanding of the functions of the organs and structures of the human body. Methods have also improved dramatically, advancing from the examination of animals by dissection of carcasses and cadavers (corpses) to 20th century medical imaging techniques including X-ray, ultrasound, and magnetic resonance imaging."
+
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name": "Biochemistry",
+        "dep_details":
+        [
+            {
+                "title": "BIOCHEMISTRY DEPARTMENT",
+                "details1": "Brief History",
+                "details2": "The Department of Biochemistry was established in 1957 with Professor Kamaluddin Ahmed, an eminent biochemist of this country as its founder head. In 2001 it was renamed Department of Biochemistry and Molecular Biology. Over the years it has grown to be one of the largest and most successful departments in the subcontinent with a wide range of research interest and a commitment to excellent teaching at all levels. The undergraduate programme attracts the best students of Bangladesh as it provides an excellent foundation for future professional and graduate education. The department offers B.S. (Honours); M.S; M.Phil. and Ph.D. Degree programmes. The research areas include Molecular Biology, Immunology, Plant Biochemistry, Nutritional Biochemistry, Biotechnology and Protein Engineering, Enzymology, Chemistry of Natural Products, Microbiology, Chinical Biochemistry.",
+                "details3": "The weekly seminar in the Department of Biochemistry and Molecular Biology is held regularly. Scholars/teachers/researchers working at local and foreign Universities and Research Institutions present their research works in these seminars. Ph.D. students also present their research works. In addition to the regular academic activities, the students of the department also learn latest scientific information from internet by using the departmental computer laboratory extensively. The departmental teachers are also involved in various research programmes in the country. They also take part regularly in the National/International seminar/ symposium and workshops, as the department feels that teaching, research and extension work are the three most important responsibilities for its academic staff. "
+
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name": "Community Medicine",
+        "dep_details":
+        [
+            {
+                "title": "COMMUNITY MEDICINE DEPARTMENT",
+                "details1": "Community health is a branch of public health which focuses on people and their role as determinants of their own and other people's health in contrast to environmental health, which focuses on the physical environment and its impact on people's health.",
+                "details2": "Community health is a major field of study within the medical and clinical sciences which focuses on the maintenance, protection, and improvement of the health status of population groups and communities. It is a distinct field of study that may be taught within a separate school of public health or environmental health. The WHO defines community health as: environmental, social, and economic resources to sustain emotional and physical well being among people in ways that advance their aspirations and satisfy their needs in their unique environment.",
+                "details3": "Medical interventions that occur in communities can be classified as three categories: primary healthcare, secondary healthcare, and tertiary healthcare. Each category focuses on a different level and approach towards the community or population group. In the United States, community health is rooted within primary healthcare achievements.[2] Primary healthcare programs aim to reduce risk factors and increase health promotion and prevention. Secondary healthcare is related to hospital care where acute care is administered in a hospital department setting. Tertiary healthcare refers to highly specialized care usually involving disease or disability management. The success of community health programmes relies upon the transfer of information from health professionals to the general public using one-to-one or one to many communication (mass communication). The latest shift is towards health marketing."
+
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name": "Forensic Medicine",
+        "dep_details":
+        [
+            {
+                "title": "FORENSIC MEDICINE DEPARTMENT",
+                "details1": "The Forensic Medicine Division of the Applied Sciences Group of the Health Sciences Authority is a forensic medical consultancy service of the government of Singapore. The Centre provides professional consultancy services in the field of forensic medicine, primarily to law enforcement in support of the coronial death investigation system in Singapore as well as criminal investigations into homicidal deaths. The Division operates a mortuary facility in Block 9, a Singapore General Hospital building along Outram Road.",
+                "details2": "History",
+                "details3": "In the 1960s to 1980s, the Department of Forensic Medicine (DFM) was a section within the Department of Pathology under the Ministry of Health. In 1989, it was known as the Department of Forensic Medicine within the Institute of Science and Forensic Medicine (ISFM). When the Health Sciences Authority (HSA) of Singapore came into being in April 2001, DFM was renamed the Centre for Forensic Medicine and became one of seven centres within the Health Sciences Authority. With effect from 1 August 2008, it is renamed the Forensic Medicine Division, a part of the Applied Sciences Group, Health Sciences Authority. From the 1960s, the section and then Department of Forensic Medicine was led by the late Professor Chao Tzee Cheng, who is deemed by many to be the Father of Forensic Medicine in Singapore. Prof Chao had been involved in many high-profile homicides and had documented some of them in his book Murder is my Business. The current Divisional Director is Dr. Paul Chui."
+
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name": "Gynecology & Obstetrics",
+        "dep_details":
+        [
+            {
+                "title": "GYNECOLOGY & OBSTETRICS DEPARTMENT",
+                "details1": "Gynaecology or gynecology (see spelling differences) is the medical practice dealing with the health of the female reproductive system (vagina, uterus, and ovaries). Outside medicine, the term means the science of women . Its counterpart is andrology, which deals with medical issues specific to the male reproductive system. Almost all modern gynaecologists are also obstetricians (see obstetrics and gynaecology). In many areas, the specialities of gynaecology and obstetrics overlap.",
+                "details2": "History",
+                "details3": "The Kahun Gynaecological Papyrus, dated to about 1800 BC, deals with women's health —gynaecological diseases, fertility, pregnancy, contraception, etc. The text is divided into thirty-four sections, each section dealing with a specific problem and containing diagnosis and treatment; no prognosis is suggested. Treatments are non surgical, comprising applying medicines to the affected body part or swallowing them. The womb is at times seen as the source of complaints manifesting themselves in other body parts. The Hippocratic Corpus contains several gynaecological treatises dating to the 5th/4th centuries BC. Aristotle is another strong source for medical texts from the 4th century BC with his descriptions of biology primarily found in History of Animals, Parts of Animals, Generation of Animals. [2] The gynaecological treatise Gynaikeia by Soranus of Ephesus (1st/2nd century AD) is extant (together with a 6th-century Latin paraphrase by Muscio, a physician of the same school). He was the chief representative of the school of physicians known as the Methodists. J. Marion Sims is widely considered the father of modern gynaecology.[3] Now criticized for his practices, Sims developed some of his techniques by operating on slaves, many of whom were not given anaesthesia.[4][5] Sims performed surgeries on 12 enslaved women in his homemade backyard hospital for four years. While performing these surgeries he invited men physicians and students to watch invasive and painful procedures while the women were exposed. On one of the women, named Anarcha, he performed 30 surgeries without anesthesia.[6] Due to having so many enslaved women, he would rotate from one to another, continuously trying to perfect the repair of their fistulas. Physicians and students lost interest in assisting Sims over the course of his backyard practice, and he recruited other enslaved women, who were healing from their own surgeries, to assist him. In 1855 Sims went on to found the Woman's Hospital in New York, the first hospital specifically for female disorders."
+
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name": "Medicine & Allied",
+        "dep_details":
+        [
+            {
+                "title": "MEDICINE & ALLIED DEPARTMENT",
+                "details1": "Medicine is the science and practice of establishing the diagnosis, prognosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness. Contemporary medicine applies biomedical sciences, biomedical research, genetics, and medical technology to diagnose, treat, and prevent injury and disease, typically through pharmaceuticals or surgery, but also through therapies as diverse as psychotherapy, external splints and traction, medical devices, biologics, and ionizing radiation, amongst others",
+                "details2": "Medicine has been around for thousands of years, during most of which it was an art (an area of skill and knowledge) frequently having connections to the religious and philosophical beliefs of local culture. For example, a medicine man would apply herbs and say prayers for healing, or an ancient philosopher and physician would apply bloodletting according to the theories of humorism. In recent centuries, since the advent of modern science, most medicine has become a combination of art and science (both basic and applied, under the umbrella of medical science). While stitching technique for sutures is an art learned through practice, the knowledge of what happens at the cellular and molecular level in the tissues being stitched arises through science.",
+                "details3": "Prescientific forms of medicine are now known as traditional medicine and folk medicine, though they do not fall within the modern definition of “medicine” which is based in medical science. Traditional medicine and folk medicine remain commonly used with, or instead of, scientific medicine and are thus called alternative medicine (meaning “[something] other than medicine”, from Latin alter, “other”). For example, evidence on the effectiveness of acupuncture is variable and inconsistent for any condition,[2] but is generally safe when done by an appropriately trained practitioner.[3] In contrast, alternative treatments outside the bounds not just of scientific medicine, but also outside the bounds of safety and efficacy are termed quackery"
+
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name": "Microbiology",
+        "dep_details":
+        [
+            {
+                "title": "MICROBIOLOGY DEPARTMENT",
+                "details1": "Microbiology (from Greek μῑκρος, mīkros, small; βίος, bios, life; and -λογία, -logia) is the study of microorganisms, those being unicellular (single cell), multicellular (cell colony), or acellular (lacking cells).[1][2] Microbiology encompasses numerous sub-disciplines including virology, bacteriology, protistology, mycology, immunology and parasitology. Eukaryotic microorganisms possess membrane-bound organelles and include fungi and protists, whereas prokaryotic organisms—all of which are microorganisms—are conventionally classified as lacking membrane-bound organelles and include Bacteria and Archaea.[3][4] Microbiologists traditionally relied on culture, staining, and microscopy. However, less than 1% of the microorganisms present in common environments can be cultured in isolation using current means.[5] Microbiologists often rely on molecular biology tools such as DNA sequence based identification, for example 16s rRNA gene sequence used for bacteria identification. ",
+                "details2": "Viruses have been variably classified as organisms,[6] as they have been considered either as very simple microorganisms or very complex molecules. Prions, never considered as microorganisms, have been investigated by virologists, however, as the clinical effects traced to them were originally presumed due to chronic viral infections, and virologists took search—discovering infectious proteins",
+                "details3": "The existence of microorganisms was predicted many centuries before they were first observed, for example by the Jains in India and by Marcus Terentius Varro in ancient Rome. The first recorded microscope observation was of the fruiting bodies of moulds, by Robert Hooke in 1666, but the Jesuit priest Athanasius Kircher was likely the first to see microbes, which he mentioned observing in milk and putrid material in 1658. Antonie van Leeuwenhoek is considered a father of microbiology as he observed and experimented with microscopic organisms in 1676, using simple microscopes of his own design. Scientific microbiology developed in the 19th century through the work of Louis Pasteur and in medical microbiology Robert Koch."
+
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name": "Pathology",
+        "dep_details":
+        [
+            {
+                "title": "PATHOLOGY DEPARTMENT",
+                "details1": "Pathology is the study of the causes and effects of disease or injury. The word pathology also refers to the study of disease in general, incorporating a wide range of bioscience research fields and medical practices. However, when used in the context of modern medical treatment, the term is often used in a more narrow fashion to refer to processes and tests which fall within the contemporary medical field of general pathology, an area which includes a number of distinct but inter-related medical specialties that diagnose disease, mostly through analysis of tissue, cell, and body fluid samples. Idiomatically, a pathology may also refer to the predicted or actual progression of particular diseases (as in the statement the many different forms of cancer have diverse pathologies), and the affix pathy is sometimes used to indicate a state of disease in cases of both physical ailment (as in cardiomyopathy) and psychological conditions (such as psychopathy).[1] A physician practicing pathology is called a pathologist.",
+                "details2": "As a field of general inquiry and research, pathology addresses four components of disease: cause, mechanisms of development (pathogenesis), structural alterations of cells (morphologic changes), and the consequences of changes (clinical manifestations).[2] In common medical practice, general pathology is mostly concerned with analyzing known clinical abnormalities that are markers or precursors for both infectious and non-infectious disease and is conducted by experts in one of two major specialties, anatomical pathology and clinical pathology. Further divisions in specialty exist on the basis of the involved sample types (comparing, for example, cytopathology, hematopathology, and histopathology), organs (as in renal pathology), and physiological systems (oral pathology), as well as on the basis of the focus of the examination (as with forensic pathology).",
+                "details3": "Pathology is a significant field in modern medical diagnosis and medical research."
+
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name": "Pharmacology & Therapeutics",
+        "dep_details":
+        [
+            {
+                "title": "PHARMACOLOGY & THERAPEUTICS DEPARTMENT",
+                "details1": "Pharmacology is a branch of pharmaceutical sciences which is concerned with the study of drug or medication action,[1] where a drug can be broadly or narrowly defined as any man-made, natural, or endogenous (from within the body) molecule which exerts a biochemical or physiological effect on the cell, tissue, organ, or organism (sometimes the word pharmacon is used as a term to encompass these endogenous and exogenous bioactive species). More specifically, it is the study of the interactions that occur between a living organism and chemicals that affect normal or abnormal biochemical function. If substances have medicinal properties, they are considered pharmaceuticals.",
+                "details2": "The field encompasses drug composition and properties, synthesis and drug design, molecular and cellular mechanisms, organ/systems mechanisms, signal transduction/cellular communication, molecular diagnostics, interactions, chemical biology, therapy, and medical applications and antipathogenic capabilities. The two main areas of pharmacology are pharmacodynamics and pharmacokinetics. Pharmacodynamics studies the effects of a drug on biological systems, and pharmacokinetics studies the effects of biological systems on a drug. In broad terms, pharmacodynamics discusses the chemicals with biological receptors, and pharmacokinetics discusses the absorption, distribution, metabolism, and excretion (ADME) of chemicals from the biological systems. Pharmacology is not synonymous with pharmacy and the two terms are frequently confused. Pharmacology, a biomedical science, deals with the research, discovery, and characterization of chemicals which show biological effects and the elucidation of cellular and organismal function in relation to these chemicals. In contrast, pharmacy, a health services profession, is concerned with the application of the principles learned from pharmacology in its clinical settings; whether it be in a dispensing or clinical care role. In either field, the primary contrast between the two is their distinctions between direct-patient care, pharmacy practice, and the science-oriented research field, driven by pharmacology.",
+                "details3": ""
+
+            }
+        ]
+    },
+    {
+        "id":10,
+        "name": "Physiology",
+        "dep_details":
+        [
+            {
+                "title": "PHYSIOLOGY DEPARTMENT",
+                "details1": "Physiology (/ˌfɪziˈɒlədʒi/; from Ancient Greek φύσις (physis), meaning 'nature, origin', and -λογία (-logia), meaning 'study of'[1]) is the scientific study of functions and mechanisms in a living system.[2][3] As a sub-discipline of biology, physiology focuses on how organisms, organ systems, individual organs, cells, and biomolecules carry out the chemical and physical functions in a living system.[4] According to the classes of organisms, the field can be divided into medical physiology, animal physiology, plant physiology, cell physiology, and comparative physiology",
+                "details2": "Central to physiological functioning are biophysical and biochemical processes, homeostatic control mechanisms, and communication between cells.[5] Physiological state is the condition of normal function, while pathological state refers to abnormal conditions, including human diseases.",
+                "details3": "The Nobel Prize in Physiology or Medicine is awarded by the Royal Swedish Academy of Sciences for exceptional scientific achievements in physiology related to the field of medicine."
+
+            }
+        ]
+    },
+    {
+        "id":11,
+        "name": "Surgery & Allied",
+        "dep_details":
+        [
+            {
+                "title": "SURGERY & ALLIED DEPARTMENT",
+                "details1": "Surgery[a] is a medical specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function or appearance or to repair unwanted ruptured areas",
+                "details2": "The act of performing surgery may be called a surgical procedure, operation, or simply surgery. In this context, the verb operate means to perform surgery. The adjective surgical means pertaining to surgery; e.g. surgical instruments or surgical nurse. The person or subject on which the surgery is performed can be a person or an animal. A surgeon is a person who practices surgery and a surgeon's assistant is a person who practices surgical assistance. A surgical team is made up of surgeon, surgeon's assistant, anaesthetist, circulating nurse and surgical technologist. Surgery usually spans minutes to hours, but it is typically not an ongoing or periodic type of treatment. The term surgery can also refer to the place where surgery is performed, or, in British English, simply the office of a physician,[1] dentist, or veterinarian.",
+                "details3": ""
+
+            }
+        ]
+    }
+
+]
