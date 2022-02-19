@@ -23,7 +23,12 @@ class Gallery extends StatelessWidget {
     ];
     return Scaffold(
       appBar: AppBar(
-        title: Text('Photo Gallery'),
+        title: Text('Photo Gallery',style: TextStyle(
+        fontSize: 25.0,
+        fontWeight: FontWeight.bold
+      ),),
+      centerTitle: true,
+      backgroundColor: Colors.brown,
       ),
       body: ListView.builder(
         itemCount: imageUrl.length,

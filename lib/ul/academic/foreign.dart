@@ -7,9 +7,15 @@ class ForeignStudents extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Foreign Students'),),
+      appBar: AppBar(title: Text('Foreign Students',style: TextStyle(
+        fontSize: 30.0,
+        fontWeight: FontWeight.bold
+      ),),
+      centerTitle: true,
+      backgroundColor: Colors.brown,
+      ),
       body: Column(
-        children: [
+        children: [SizedBox(height: 20.0,),
             GestureDetector(
               onTap: () {
                 Navigator.pushNamed(context, '/info');
@@ -19,10 +25,10 @@ class ForeignStudents extends StatelessWidget {
                      height: 80.0,
                      width: MediaQuery.of(context).size.width,
                      child:  Center(child: Text('Admission Information',style: TextStyle(
-                       fontSize: 30.0,fontWeight: FontWeight.bold
+                       fontSize: 30.0,fontWeight: FontWeight.bold,color: Colors.white
                      ),)),
                      decoration: BoxDecoration(
-                       color: Colors.yellow,
+                       color: Colors.green,
                        borderRadius: BorderRadius.only(
                          topRight: Radius.circular(50),
                          bottomRight: Radius.circular(50),
@@ -43,7 +49,7 @@ class ForeignStudents extends StatelessWidget {
                         fontSize: 30.0,fontWeight: FontWeight.bold,color: Colors.white
                       ),)),
                       decoration: BoxDecoration(
-                        color: Colors.blueGrey,
+                        color: Colors.green,
                         borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(50),
                           bottomLeft: Radius.circular(50),

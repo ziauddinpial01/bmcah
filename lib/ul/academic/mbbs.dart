@@ -7,11 +7,18 @@ class Mbbs extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('MBBS COURSE'),
+        title: Text('MBBS COURSE',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold,
+        
+        ),),
+        centerTitle: true,
+        backgroundColor: Colors.brown,
       ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),
         child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [SizedBox(height: 20.0,),
             Text('1. Name of the Course: Bachelor of Medicine & Bachelor of Surgery (MBBS)'),
             SizedBox(height: 20.0,),

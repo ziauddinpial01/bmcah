@@ -8,7 +8,10 @@ class TechView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Teacher List'),),
+      appBar: AppBar(title: Text('Teacher List'),
+      centerTitle: true,
+      backgroundColor: Colors.brown,
+      ),
       body: FutureBuilder(
         future: TeachRepo.getTeacherList(),
         builder: (context, snapshot) {
@@ -33,14 +36,13 @@ class TechView extends StatelessWidget {
                       Navigator.pushNamed(context, '/techdetails',arguments: teacher.elementAt(index).teacherList);
                     },
                     style: ElevatedButton.styleFrom(
-                      primary: Colors.blueGrey, 
+                      primary: Colors.green, 
+                       padding: EdgeInsets.only(top: 20,bottom: 15),
+                  shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(25),
+                          ),
                     ),
-                     child: Column(
-                       children: [
-                         
-                         Text('${teach.dept}',style: TextStyle(fontWeight:FontWeight.bold, fontSize: 25.0),)
-                       ],
-                     )
+                     child: Text('${teach.dept}',style: TextStyle(fontWeight:FontWeight.bold, fontSize: 25.0),)
                      )
                      ,
                 )

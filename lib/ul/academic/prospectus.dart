@@ -8,7 +8,12 @@ class PROSPECTUS extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('PROSPECTUS'),
+        title: Text('PROSPECTUS',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold
+        ),),
+        centerTitle: true,
+        backgroundColor: Colors.brown,
       ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),
@@ -16,7 +21,17 @@ class PROSPECTUS extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
              SizedBox(height: 20.0,),
-            Text('PROSPECTUS'),
+            Container(
+              width: MediaQuery.of(context).size.width,
+              color: Colors.green,
+              child: Center(
+                child: Text('PROSPECTUS',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white
+        ),),
+              ),
+            ),
             SizedBox(height: 20.0,),
             Text('Basic Information About MBBS Course'),
             SizedBox(height: 10.0,),

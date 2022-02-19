@@ -10,6 +10,8 @@ class TeacherDetails extends StatelessWidget {
     return Scaffold(
       appBar:AppBar(
         title: Text('Teacher Details'),
+        centerTitle: true,
+        backgroundColor: Colors.brown,
       ),
       body: ListView.builder(
         itemCount: teacherlsit.length,

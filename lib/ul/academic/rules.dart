@@ -7,15 +7,36 @@ class Rules extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Rules & Regulation'),
+        title: Text('Rules & Regulation',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold
+        ),),
+        centerTitle: true,
+        backgroundColor: Colors.brown,
       ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),
         child: Column(
           children: [SizedBox(height: 20.0,),
-            Text('COLLEGE RULES AND REGULATION'),
+            Container( 
+              width: MediaQuery.of(context).size.width,
+              color: Colors.green,
+              child: Center(
+                child: Text('COLLEGE RULES AND REGULATION',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white
+        ),))),
             SizedBox(height: 20.0,),
-            Text('For Local Students:  '),
+            Container(
+              width: MediaQuery.of(context).size.width,
+              color: Colors.green,
+              child: Center(
+                child: Text('For Local Students:',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white
+        ),))),
             SizedBox(height: 20.0,),
             Text('1.     Every student must give an undertaking at the time of admission and follow the existing rules of the BMC and also the rules, which will be notified in future time to time. Disciplinary action (S) would be taken by the Academic and Disciplinary action(s) would be taken by the Academic and Disciplinary body against any student who violates or tries to violate any of these rules.'),
             SizedBox(height: 20.0,),

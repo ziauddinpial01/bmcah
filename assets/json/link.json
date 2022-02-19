@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"ONLINE APPLICATION",
+        "web_url":"https://bmchbd.com/apply-now.php"
+    },
+    {
+        "id":2,
+        "name":"NOTICE BORD",
+        "web_url":"https://bmchbd.com/notice.php"
+    },
+    {
+        "id":3,
+        "name":"NEWS",
+        "web_url":"https://bmchbd.com/news.php"
+    },
+    {
+        "id":4,
+        "name":"BACHELOR OF MEDICINE",
+        "web_url":"https://bmchbd.com/apply-now.php"
+    },
+    {
+        "id":5,
+        "name":"BACHELOR OF SURGERY (M.B.B.S)",
+        "web_url":"https://bmchbd.com/apply-now.php"
+    }
+]

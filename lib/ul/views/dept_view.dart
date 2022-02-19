@@ -9,7 +9,12 @@ class DeptView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Department View'),
+        title: Text('Department View',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold
+        ),),
+        centerTitle: true,
+        backgroundColor: Colors.brown,
       ),
       body: FutureBuilder(
         future: DeptRepo.getTeacherList(),

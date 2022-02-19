@@ -9,7 +9,12 @@ class DeptDetails extends StatelessWidget {
     final List<DepDetail> deptdetails = ModalRoute.of(context)!.settings.arguments as List<DepDetail>;
     return Scaffold(
       appBar: AppBar(
-        title: Text('Depaetment Details'),
+        title: Text('Department Details',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold
+        ),),
+        centerTitle: true,
+        backgroundColor: Colors.brown,
       ),
       body: ListView.builder(
         itemCount: deptdetails.length,

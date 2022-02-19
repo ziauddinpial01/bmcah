@@ -7,17 +7,32 @@ class AdmissionRequirements extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('ADMISSION REQUIREMENTS'),
+        title: Text('ADMISSION REQUIREMENTS',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold
+        ),),
+         centerTitle: true,
+        backgroundColor: Colors.brown,
       ),
       body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.all(15.0),
           child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               SizedBox(height: 20.0,),
               Text('Directorate General of health Services (DGHS) of ministry of Health & Family Welfare. Government of Bangladesh sets the admission rules and conducts the admission test for local students. All students interested for admission notification of Brahmanbaria Medical College will be Published in the daily newspapers. Deserved candidates should apply accordingly.'),
                SizedBox(height: 20.0,),
-              Text('.Selection of local candidates:'),
+              Container( 
+                width: MediaQuery.of(context).size.width,
+              color: Colors.green,
+                child: Center(
+                  child: Text('Selection of local candidates:',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white
+        ),),
+                )),
                SizedBox(height: 20.0,),
               Text('The candidates have to submit their applications within the time as fixed for admission and published in the advertisement notice.'),
                SizedBox(height: 20.0,),
@@ -25,25 +40,39 @@ class AdmissionRequirements extends StatelessWidget {
                 SizedBox(height: 20.0,),
               Text('In 2019-2020 sessions 80 students including 25% foreign students will be admitted. All admitted students will be provided with seats in students hostels at the campus. After 5 academic years those who will pass the MBBS course shall have to go for a compulsory Internship during which the college will pay the Interns doctor as per existing rules. The internship training will be optional for foreign students.'),
                SizedBox(height: 20.0,),
-              Text('Residence of students:'),
+              Container(width: MediaQuery.of(context).size.width,
+              color: Colors.green,
+                child: Center(
+                  child: Text('Residence of students:',style: TextStyle(
+          fontSize: 25.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white
+        ),))),
                 SizedBox(height: 20.0,),
               Text('There are two separate hostels for male and female students. Students can stay in the hostel for which they have to pay seat rent of taka 1500 per month'),
                 SizedBox(height: 20.0,),
-              Text('Documents to be submitted by the candidates:'),
+              Container(width: MediaQuery.of(context).size.width,
+              color: Colors.green,
+                child: Center(
+                  child: Text('Documents to be submitted by the candidates:',style: TextStyle(
+          fontSize: 20.0,
+          fontWeight: FontWeight.bold,
+          color: Colors.white
+        ),))),
                 SizedBox(height: 20.0,),
               Text('For Admission in 1st year MBBS class in the students need to apply in prescribed from and submit along with the following document:-  '),
                 SizedBox(height: 20.0,),
-              Text('  At the time of admission all the original documents will be kept by the college until completion of the course.'),
+              Text('At the time of admission all the original documents will be kept by the college until completion of the course.'),
                SizedBox(height: 20.0,),
-              Text('·   4 (four) copies of recent passport size attested photographs.'),
+              Text('4 (four) copies of recent passport size attested photographs.'),
                SizedBox(height: 20.0,),
-              Text('·   Nationality certificate & Birth certificate'),
+              Text('Nationality certificate & Birth certificate'),
                SizedBox(height: 20.0,),
-              Text('·   Online student copy of application, downloaded admit card & merit score of admission test'),
+              Text('Online student copy of application, downloaded admit card & merit score of admission test'),
                 SizedBox(height: 20.0,),
-              Text('·   Attested photocopy of SSC & HSC / Equivalent Examination marks Sheets/ Academic Transcript.'),
+              Text('Attested photocopy of SSC & HSC / Equivalent Examination marks Sheets/ Academic Transcript.'),
                 SizedBox(height: 20.0,),
-              Text('·  Attested photocopy of SSC & HSC / Equivalent Examination Certificate/ Testimonial.'),
+              Text('Attested photocopy of SSC & HSC / Equivalent Examination Certificate/ Testimonial.'),
             ],
           ),
         ),

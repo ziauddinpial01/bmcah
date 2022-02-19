@@ -26,6 +26,8 @@
         android:label="bmcah"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
+         <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyAh1Hu35pQ0UShD4-1_BuLIKtn31JQZGfk"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
